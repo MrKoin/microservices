@@ -1,3 +1,5 @@
 
 #Ribbon
 microservice-produits.ribbon.listOfServers=localhost:9001,localhost:9002
+
+server.port:8081
